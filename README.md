@@ -5,6 +5,7 @@
 
 =========================
 =========================
+
 Linkedin Post:
 1. OCC in databricks
 2. Snapshot isolation in delta lake
