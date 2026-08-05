@@ -1,12 +1,7 @@
-1. delta tables vs iceberg formats.
-2. delta lake question that will lead you to top 10% DE.
+# Airflow Architecture (Version3x)
+![Architecture Diagram](assets/Airflow3Xarchitecture.png)
 
-
-
-=========================
-=========================
-
-Linkedin Post:
+Linkedin Post Idea's:
 1. OCC in databricks
 2. Snapshot isolation in delta lake
 3. Auto compaction in databricks
@@ -15,6 +10,4 @@ Linkedin Post:
 6. Small file problem in Data processing?
 7. AQE in spark.
 8. What are MVCC and OCC in delta lake, what role they play?
-
 9. SQL : Gaps and Island problems in SQL.
-10. 
